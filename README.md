@@ -14,5 +14,7 @@
 
 ## Feito por:
 ### Bruna Pupo
+### Portfólio: https://portfolio-brunapupo.vercel.app/
 ### Linkedin: https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/
 
+ 

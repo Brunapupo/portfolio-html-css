@@ -1,1 +1,1 @@
-# portfolio-html-css
+Meu portfólio pessoal foi criado utilizando HTML e CSS3, com o objetivo de compartilhar um pouco mais sobre mim, apresentando meu currículo e algumas das minhas experiências. Além disso, o portfólio possui um layout responsivo, adaptando-se a diferentes dispositivos e tamanhos de tela.

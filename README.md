@@ -1,1 +1,18 @@
-Meu portfólio pessoal foi criado utilizando HTML e CSS3, com o objetivo de compartilhar um pouco mais sobre mim, apresentando meu currículo e algumas das minhas experiências. Além disso, o portfólio possui um layout responsivo, adaptando-se a diferentes dispositivos e tamanhos de tela.
+```
+# Olá, Bem vindo ao meu projeto de portfólio.
+
+![image](https://github.com/Brunapupo/portfolio-html-css/assets/112135250/387c52d9-9623-4331-b86c-796cc005e8c1)
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+### Bruna Pupo
+### Linkedin: https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/
+
+```

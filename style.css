@@ -54,7 +54,7 @@ body{
     width: 50%;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 20px;
 
 }
 
@@ -77,6 +77,15 @@ body{
 .apresentacao__conteudo__texto a{
     text-decoration: none;
     color: #22D4FD;
+}
+
+.texto_curriculo {
+    padding: 2% 2% 2% 2%;
+}
+
+.texto_curriculo_data {
+    color: var(--cor-terciaria);
+    padding: 2% 2% 2% 2%;
 }
 
 .apresentacao__links {
@@ -122,6 +131,8 @@ body{
     transition-delay: .8s;
     animation: animation .8s steps(10) forwards
 }
+
+
 
 
 @keyframes animation {

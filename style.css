@@ -146,6 +146,9 @@ body{
 
 .apresentacao__imagem {
     width: 25%;
+    max-width: 100%; /* assegura que a imagem não exceda a largura do contêiner */
+    height: auto; /* mantém a proporção da imagem */
+    transform: scale(1);
 }
 
 .rodape {
